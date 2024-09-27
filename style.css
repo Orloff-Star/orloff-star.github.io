@@ -1,0 +1,20 @@
+li {
+  color: MidnightBlue;
+  font-size: 15px;
+}
+
+#main-title {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.content {
+  background-color: #7CFC00;
+}
+
+main {
+  background: #F0FFF0;
+  width: 750px;
+  height: 500px;
+}
